@@ -1,4 +1,5 @@
 #!/bin/bash
 clear
-echo "Shell Sripting is Fun "
+VAR="Shell Sripting is Fun"
+echo ${VAR}
 
